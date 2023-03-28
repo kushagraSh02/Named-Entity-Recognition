@@ -26,3 +26,5 @@ GPE - South East Asia, Midlothian
 ]
 
 We perform named entity recognition on data and get an accuract of about 98%.
+
+Dataset URL: https://www.kaggle.com/datasets/namanj27/ner-dataset
